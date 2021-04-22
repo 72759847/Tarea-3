@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=
+comment1.target=Calculadora()
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ ecuacionSegundoGrado(int,\ int,\ int)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=java.lang.String\ ecuacionRectaLineal(int,\ int,\ int,\ int)
+comment4.params=h\ catetoB
+comment4.target=double\ trianguloRectangulo(int,\ int)
+comment5.params=
+comment5.target=java.lang.String\ getReal()
+comment6.params=
+comment6.target=java.lang.String\ getEcuacion()
+comment7.params=
+comment7.target=double\ getCatetoA()
+numComments=8
